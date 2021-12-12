@@ -1,0 +1,144 @@
+[33mcommit 4058ef25ed5910330dd2ba16dbce811d5e48593e[m[33m ([m[1;36mHEAD -> [m[1;32mhojun[m[33m)[m
+Author: khojun611 <khojun611@gmail.com>
+Date:   Sun Nov 28 14:43:59 2021 +0900
+
+    'message'
+
+[33mcommit 760bfda2f7eb471811b54aa24480d113c3c7afa8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: kimch963 <kimch963@gmail.com>
+Date:   Sat Nov 27 21:34:04 2021 +0900
+
+    Add_Sound
+
+[33mcommit 2194881c559c5cf60aae42cc4a9d4623a993af7d[m
+Merge: 2a13dd1 7b93477
+Author: yujeong <skyggg3@gmail.com>
+Date:   Sat Nov 27 20:33:22 2021 +0900
+
+    Merge branch 'main' of https://github.com/Growing3Team/ShootingGame
+
+[33mcommit 2a13dd19546d9b92220b0d9edef940083b037909[m
+Author: yujeong <skyggg3@gmail.com>
+Date:   Sat Nov 27 20:32:59 2021 +0900
+
+    오타수정
+
+[33mcommit 7b93477e4c5d95f5baec88d5bcf9c3b970872213[m
+Author: yujeong0121 <94778140+yujeong0121@users.noreply.github.com>
+Date:   Sat Nov 27 20:06:56 2021 +0900
+
+    Add files via upload
+
+[33mcommit 5dd1f4f5e27cb5bd0608b2a1ef2a60f9c9b79596[m
+Merge: d81d69e 665cb11
+Author: yujeong <skyggg3@gmail.com>
+Date:   Sat Nov 27 19:52:17 2021 +0900
+
+    재업로드
+
+[33mcommit d81d69ed4907bf5239786205cc63e5e24ccd9750[m
+Author: yujeong <skyggg3@gmail.com>
+Date:   Sat Nov 27 19:32:11 2021 +0900
+
+    게임이름, 시간 추적, 음식 랜덤 생성, 운석위치 초기화, 음식이 밖으로 떨어질 경우 추가
+
+[33mcommit 665cb11253aba178ea02c37eb322591e5060a70d[m
+Author: kimch963 <kimch963@gmail.com>
+Date:   Sat Nov 27 19:05:12 2021 +0900
+
+    Sound and moving
+
+[33mcommit 5b38580b80a01774ed5b3477f5e6e76ffb4051ca[m
+Author: hanseul <w0w1278@naver.com>
+Date:   Sat Nov 27 17:47:34 2021 +0900
+
+    TestHan
+
+[33mcommit 481d796ea5508a5fad1a335380f65ba3c76b1e26[m
+Merge: 54c82d4 462c0ec
+Author: hanseul <w0w1278@naver.com>
+Date:   Sat Nov 27 17:45:47 2021 +0900
+
+    TestHan
+
+[33mcommit 54c82d4b1eaea731595cee021767c0db1df94751[m
+Author: hanseul <w0w1278@naver.com>
+Date:   Sat Nov 27 17:39:05 2021 +0900
+
+    TestHan
+
+[33mcommit 462c0ec9086d0619fc27f4d46dd8419e64307c3d[m
+Merge: b1d9a14 1a7fdd0
+Author: yujeong <skyggg3@gmail.com>
+Date:   Sat Nov 27 16:45:35 2021 +0900
+
+    test4
+
+[33mcommit b1d9a142e84996c8fc97f9e4268f9fc95b8f2650[m
+Author: yujeong <skyggg3@gmail.com>
+Date:   Sat Nov 27 16:43:35 2021 +0900
+
+    test3
+
+[33mcommit 1a7fdd0b5f4cfcaacd9faf4589457f917360a290[m
+Merge: 08f8bac 8fac266
+Author: hanseul <w0w1278@naver.com>
+Date:   Sat Nov 27 16:38:57 2021 +0900
+
+    Test
+
+[33mcommit 8fac2666e04d619d21f6a75ff0e47e64420d6748[m
+Author: khojun611 <khojun611@gmail.com>
+Date:   Sat Nov 27 16:02:29 2021 +0900
+
+    'test'
+
+[33mcommit 34e992904d4201c9b117822032dcb04db15deab1[m
+Author: yujeong <skyggg3@gmail.com>
+Date:   Sat Nov 27 15:57:05 2021 +0900
+
+    배경이미지 파일 추가
+
+[33mcommit 08f8baca89f47712e23e707d78db0b11dcc16497[m
+Author: hanseul <w0w1278@naver.com>
+Date:   Sat Nov 27 15:50:59 2021 +0900
+
+    han
+
+[33mcommit ad90578900391fc663e4b3a80c1a421a1bec427d[m
+Author: yujeong <skyggg3@gmail.com>
+Date:   Sat Nov 27 15:31:22 2021 +0900
+
+    Test2
+
+[33mcommit 15515937f37a92dffcbb7defe9596751185a4cff[m
+Author: Saeha <blancnoir.d@gmail.com>
+Date:   Sat Nov 27 15:20:20 2021 +0900
+
+    Test
+
+[33mcommit a40346f875f61f36ab17061087ceaa8f6838589d[m
+Author: yujeong <skyggg3@gmail.com>
+Date:   Sat Nov 27 15:08:05 2021 +0900
+
+    Test
+
+[33mcommit 45344737a6da709416f59b12e1fd98f5328596ee[m
+Author: Saeha <blancnoir.d@gmail.com>
+Date:   Wed Nov 24 22:08:38 2021 +0900
+
+    Chore: 미사일로 쓰일 이미지 추가
+
+[33mcommit 8f1fa7389cfaca0fbb36175cb6a68a2f2e6d2a3a[m
+Author: Saeha <blancnoir.d@gmail.com>
+Date:   Sun Nov 21 22:33:45 2021 +0900
+
+    Feat: 미사일 발사1,2,3, 파괴한 운석 수와 놓친 운석 수 표시하기 1,2 코드 작성
+    
+    코드 넣으면서 일부 필요한 부분은 조금 써넣음. 대략적인 틀 잡음
+
+[33mcommit fb457eee641ee5690f56b5a1837a2c33f054138a[m
+Author: Saeha <blancnoir.d@gmail.com>
+Date:   Sun Nov 21 22:22:46 2021 +0900
+
+    Init
